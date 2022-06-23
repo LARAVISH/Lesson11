@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945351267222",
+    "project_id": "lesson11-96123",
+    "storage_bucket": "lesson11-96123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945351267222:android:e0a7b2e3119d2752a2c3b7",
+        "android_client_info": {
+          "package_name": "com.githab.laravish.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945351267222-0tjfol1obk4anlpmk9k85psm5ckrkfn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRqJDYiArD9IFr-nLKUeYhXKDPsHaKzu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945351267222-0tjfol1obk4anlpmk9k85psm5ckrkfn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
